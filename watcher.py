@@ -5,9 +5,9 @@ from aiogram import Bot
 import asyncio
 
 API_TOKEN = '7301648378:AAHZt8SOGb72ivP0RQBPeRQQvDq-oyRAo9E'
-ADMIN_ID = '2022961119'
-MAX_RESTARTS = 5
-RESTART_PERIOD = 60  # Seconds
+ADMIN_ID = '812940660'
+MAX_RESTARTS = 10
+RESTART_PERIOD = 10 # Seconds
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 bot = Bot(API_TOKEN)
@@ -47,10 +47,10 @@ async def main():
         while process.poll() is None:
             await asyncio.sleep(5)
         
-        logging.warning("Bot process terminated. Restarting in 10 seconds...")
+        logging.warning("Bot process terminated. Restarting in 8 seconds...")
         await notify_admin("⚠️ The bot has crashed and will be restarted in 10 seconds.")
         restart_count += 1
-        await asyncio.sleep(10)
+        await asyncio.sleep(8)
         
 
 if __name__ == '__main__':

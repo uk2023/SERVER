@@ -4,14 +4,21 @@ import telebot
 import subprocess
 import datetime
 import os
+import signal
+from keep_alive import keep_alive, stop_keep_alive
+from telebot import TeleBot
 
 from keep_alive import keep_alive
 keep_alive()
+
+# Start the keep-alive server and get the server thread
+server_thread = keep_alive()
+
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7201042924:AAER3LitjsPBcfmw7TmTnhOywNuNFUU2tgw')
+bot = telebot.TeleBot('7524160505:AAHNtJ-FiSIm_y7L3zEK6uG6UrcXfasEg_E')
 
 # Admin user IDs
-admin_id = ["1185995156"]
+admin_id = ["812940660"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -48,7 +55,7 @@ allowed_user_ids = read_users()
 
 # Function to log command to the file
 def log_command(user_id, target, port, time):
-    admin_id = ["1185995156"]
+    admin_id = ["812940660"]
     user_info = bot.get_chat(user_id)
     if user_info.username:
         username = "@" + user_info.username
@@ -377,6 +384,44 @@ def welcome_start(message):
 🤖Try To Run This Command : /help 
 ✅BUY :- @BgmiOPbotYT'''
     bot.reply_to(message, response)
+
+@bot.message_handler(commands=['stop'])
+def stop_bot(message):
+    user_id = str(message.chat.id)
+    if user_id in admin_id:
+        bot.reply_to(message, "Bot is stopping... 😴")
+
+        # Optionally log the stop command
+        # record_command_logs(user_id, 'stop') # Implement logging if needed
+
+        # Stop the bot gracefully
+        bot.stop_polling()
+
+        # Stop the Flask server
+        stop_keep_alive(server_thread)
+
+        # Optionally exit the script
+        os._exit(0)
+    else:
+        response = "You do not have permission to stop the bot ❌."
+        bot.reply_to(message, response)
+
+# Start polling
+bot.polling()
+def stop_bot(message):
+    user_id = str(message.chat.id)
+    if user_id in admin_id:
+        bot.reply_to(message, "Bot is stopping... 😴")
+        
+        # Optionally log the stop command
+        record_command_logs(user_id, 'stop')
+        
+        # Stop the bot after replying
+        os._exit(0)  # This will terminate the script
+    else:
+        response = "You do not have permission to stop the bot ❌."
+        bot.reply_to(message, response)
+
 
 @bot.message_handler(commands=['rules'])
 def welcome_rules(message):

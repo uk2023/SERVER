@@ -1,0 +1,278 @@
+UserID: 812940660 | Time: 2024-09-13 11:59:50.791370 | Command: /bgmi | Target: 52.140.45.120 | Port: 29605 | Time: 80
+Username: @pr0_crastinator
+Target: 52.140.45.120
+Port: 29605
+Time: 80
+
+UserID: 812940660 | Time: 2024-09-13 12:01:38.927495 | Command: /bgmi | Target: 52.140.45.120 | Port: 29605 | Time: 240
+Username: @pr0_crastinator
+Target: 52.140.45.120
+Port: 29605
+Time: 240
+
+UserID: 812940660 | Time: 2024-09-13 12:11:35.844295 | Command: /bgmi | Target: 20.198.78.30 | Port: 29517 | Time: 600
+Username: @pr0_crastinator
+Target: 20.198.78.30
+Port: 29517
+Time: 600
+
+UserID: 812940660 | Time: 2024-09-13 12:12:41.978528 | Command: /bgmi | Target: 20.198.78.30 | Port: 29517 | Time: 600
+Username: @pr0_crastinator
+Target: 20.198.78.30
+Port: 29517
+Time: 600
+
+UserID: 812940660 | Time: 2024-09-13 12:24:09.430724 | Command: /bgmi | Target: 20.198.78.30 | Port: 29517 | Time: 600
+Username: @pr0_crastinator
+Target: 20.198.78.30
+Port: 29517
+Time: 600
+
+UserID: 812940660 | Time: 2024-09-13 12:30:16.407441 | Command: /bgmi | Target: 4.213.68.218 | Port: 18039 | Time: 120
+Username: @pr0_crastinator
+Target: 4.213.68.218
+Port: 18039
+Time: 120
+
+UserID: 812940660 | Time: 2024-09-13 12:33:52.372866 | Command: /bgmi | Target: 4.213.68.218 | Port: 18039 | Time: 240
+Username: @pr0_crastinator
+Target: 4.213.68.218
+Port: 18039
+Time: 240
+
+UserID: 812940660 | Time: 2024-09-13 12:43:01.047453 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 12:43:22.192077 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 12:45:44.651637 | Command: /bgmi | Target: 4.213.65.122 | Port: 28773 | Time: 600
+Username: @pr0_crastinator
+Target: 4.213.65.122
+Port: 28773
+Time: 600
+
+UserID: 812940660 | Time: 2024-09-13 17:43:52.016315 | Command: /bgmi | Target: 20.235.95.62 | Port: 21842 | Time: 400
+Username: @pr0_crastinator
+Target: 20.235.95.62
+Port: 21842
+Time: 400
+
+UserID: 812940660 | Time: 2024-09-13 18:09:01.203965 | Command: /bgmi | Target: 20.219.6.227 | Port: 28969 | Time: 120
+Username: @pr0_crastinator
+Target: 20.219.6.227
+Port: 28969
+Time: 120
+
+UserID: 812940660 | Time: 2024-09-13 18:11:25.639477 | Command: /bgmi | Target: 20.219.6.227 | Port: 28969 | Time: 120
+Username: @pr0_crastinator
+Target: 20.219.6.227
+Port: 28969
+Time: 120
+
+UserID: 812940660 | Time: 2024-09-13 18:18:03.463714 | Command: /bgmi | Target: 20.204.176.246 | Port: 25016 | Time: 140
+Username: @pr0_crastinator
+Target: 20.204.176.246
+Port: 25016
+Time: 140
+
+UserID: 812940660 | Time: 2024-09-13 18:20:45.627337 | Command: /bgmi | Target: 20.204.176.246 | Port: 25016 | Time: 140
+Username: @pr0_crastinator
+Target: 20.204.176.246
+Port: 25016
+Time: 140
+
+UserID: 812940660 | Time: 2024-09-13 18:26:37.319992 | Command: /bgmi | Target: 20.235.92.154 | Port: 27701 | Time: 599
+UserID: 812940660 | Time: 2024-09-13 18:27:03.966261 | Command: /bgmi | Target: 20.235.92.154 | Port: 27701 | Time: 599
+Username: @pr0_crastinator
+Target: 20.235.92.154
+Port: 27701
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-13 18:44:41.555054 | Command: /bgmi | Target: 20.198.111.131 | Port: 19739 | Time: 599
+Username: @pr0_crastinator
+Target: 20.198.111.131
+Port: 19739
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-13 19:00:33.265978 | Command: /bgmi | Target: 20.204.178.198 | Port: 24262 | Time: 599
+Username: @pr0_crastinator
+Target: 20.204.178.198
+Port: 24262
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-13 19:08:07.403741 | Command: /bgmi | Target: 20.198.110.70 | Port: 22291 | Time: 145
+UserID: 812940660 | Time: 2024-09-13 19:11:57.760629 | Command: /bgmi | Target: 20.198.110.161 | Port: 13374 | Time: 399
+Username: @pr0_crastinator
+Target: 20.198.110.161
+Port: 13374
+Time: 399
+
+UserID: 812940660 | Time: 2024-09-13 19:19:21.779280 | Command: /bgmi | Target: 20.198.110.161 | Port: 13374 | Time: 198
+Username: @pr0_crastinator
+Target: 20.198.110.161
+Port: 13374
+Time: 198
+
+UserID: 812940660 | Time: 2024-09-13 19:28:50.734023 | Command: /bgmi | Target: 20.198.110.161 | Port: 13374 | Time: 198
+Username: @pr0_crastinator
+Target: 20.198.110.161
+Port: 13374
+Time: 198
+
+UserID: 812940660 | Time: 2024-09-13 19:34:51.919819 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 19:36:58.651575 | Command: /bgmi | Target: 20.204.19.179 | Port: 11129 | Time: 430
+Username: @pr0_crastinator
+Target: 20.204.19.179
+Port: 11129
+Time: 430
+
+UserID: 812940660 | Time: 2024-09-13 19:49:45.373504 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 19:50:20.780403 | Command: /bgmi | Target: 20.204.19.179 | Port: 11129 | Time: 130
+Username: @pr0_crastinator
+Target: 20.204.19.179
+Port: 11129
+Time: 130
+
+UserID: 812940660 | Time: 2024-09-13 19:53:31.670276 | Command: /bgmi | Target: 20.219.161.180 | Port: 24881 | Time: 240
+Username: @pr0_crastinator
+Target: 20.219.161.180
+Port: 24881
+Time: 240
+
+UserID: 812940660 | Time: 2024-09-13 20:03:15.998268 | Command: /bgmi | Target: 20.235.92.154 | Port: 27941 | Time: 240
+Username: @pr0_crastinator
+Target: 20.235.92.154
+Port: 27941
+Time: 240
+
+UserID: 812940660 | Time: 2024-09-13 20:09:53.766696 | Command: /bgmi | Target: 20.204.39.212 | Port: 29743 | Time: 240
+Username: @pr0_crastinator
+Target: 20.204.39.212
+Port: 29743
+Time: 240
+
+UserID: 812940660 | Time: 2024-09-13 20:18:14.883083 | Command: /bgmi | Target: 4.247.16.102 | Port: 25490 | Time: 345
+Username: @pr0_crastinator
+Target: 4.247.16.102
+Port: 25490
+Time: 345
+
+UserID: 812940660 | Time: 2024-09-13 20:19:12.319758 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 20:23:53.085218 | Command: /bgmi | Target: 20.235.90.12 | Port: 14210 | Time: 455
+Username: @pr0_crastinator
+Target: 20.235.90.12
+Port: 14210
+Time: 455
+
+UserID: 812940660 | Time: 2024-09-13 20:35:35.403455 | Command: /bgmi | Target: 20.235.88.151 | Port: 21468 | Time: 210
+Username: @pr0_crastinator
+Target: 20.235.88.151
+Port: 21468
+Time: 210
+
+UserID: 812940660 | Time: 2024-09-13 20:44:03.273435 | Command: /bgmi | Target: 20.204.176.245 | Port: 19113 | Time: 190
+Username: @pr0_crastinator
+Target: 20.204.176.245
+Port: 19113
+Time: 190
+
+UserID: 812940660 | Time: 2024-09-13 20:49:06.712384 | Command: /bgmi | Target: 20.204.176.245 | Port: 19113 | Time: 190
+Username: @pr0_crastinator
+Target: 20.204.176.245
+Port: 19113
+Time: 190
+
+UserID: 812940660 | Time: 2024-09-13 20:49:51.828120 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 20:52:21.701650 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 20:52:46.820840 | Command: stop
+UserID: 812940660 | Time: 2024-09-13 20:53:17.823897 | Command: /bgmi | Target: 20.204.176.245 | Port: 19113 | Time: 191
+Username: @pr0_crastinator
+Target: 20.204.176.245
+Port: 19113
+Time: 191
+
+UserID: 812940660 | Time: 2024-09-13 21:01:07.611407 | Command: /bgmi | Target: 20.204.16.175 | Port: 14913 | Time: 399
+Username: @pr0_crastinator
+Target: 20.204.16.175
+Port: 14913
+Time: 399
+
+UserID: 812940660 | Time: 2024-09-13 21:08:15.270233 | Command: /bgmi | Target: 20.204.88.247 | Port: 24163 | Time: 241
+Username: @pr0_crastinator
+Target: 20.204.88.247
+Port: 24163
+Time: 241
+
+UserID: 812940660 | Time: 2024-09-13 21:17:27.752325 | Command: /bgmi | Target: 20.198.73.231 | Port: 17185 | Time: 455
+Username: @pr0_crastinator
+Target: 20.198.73.231
+Port: 17185
+Time: 455
+
+UserID: 812940660 | Time: 2024-09-13 21:26:13.293022 | Command: /bgmi | Target: 20.204.191.125 | Port: 10125 | Time: 599
+Username: @pr0_crastinator
+Target: 20.204.191.125
+Port: 10125
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-13 21:36:25.695511 | Command: /bgmi | Target: 20.204.191.125 | Port: 10125 | Time: 199
+Username: @pr0_crastinator
+Target: 20.204.191.125
+Port: 10125
+Time: 199
+
+UserID: 812940660 | Time: 2024-09-13 22:06:18.333105 | Command: /bgmi | Target: 20.198.107.78 | Port: 10777 | Time: 399
+Username: @pr0_crastinator
+Target: 20.198.107.78
+Port: 10777
+Time: 399
+
+UserID: 812940660 | Time: 2024-09-14 04:06:05.694789 | Command: /bgmi | Target: 4.213.65.14 | Port: 15318 | Time: 599
+Username: @pr0_crastinator
+Target: 4.213.65.14
+Port: 15318
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-14 04:57:25.353628 | Command: stop
+UserID: 812940660 | Time: 2024-09-14 05:23:33.782017 | Command: stop
+UserID: 812940660 | Time: 2024-09-14 05:30:53.573630 | Command: /bgmi | Target: 4.213.65.14 | Port: 78649 | Time: 10
+Username: @pr0_crastinator
+Target: 4.213.65.14
+Port: 78649
+Time: 10
+
+UserID: 812940660 | Time: 2024-09-14 05:35:04.669076 | Command: stop
+UserID: 812940660 | Time: 2024-09-14 05:35:23.453601 | Command: stop
+UserID: 812940660 | Time: 2024-09-14 05:44:34.103167 | Command: /bgmi | Target: 4.213.65.14 | Port: 56788 | Time: 10
+Username: @pr0_crastinator
+Target: 4.213.65.14
+Port: 56788
+Time: 10
+
+UserID: 812940660 | Time: 2024-09-14 05:59:32.596488 | Command: /bgmi | Target: 52.140.45.120 | Port: 29792 | Time: 599
+Username: @pr0_crastinator
+Target: 52.140.45.120
+Port: 29792
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-14 06:08:19.922481 | Command: /bgmi | Target: 20.235.90.134 | Port: 12281 | Time: 599
+Username: @pr0_crastinator
+Target: 20.235.90.134
+Port: 12281
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-14 06:09:54.197590 | Command: /bgmi | Target: 20.235.90.134 | Port: 12281 | Time: 599
+Username: @pr0_crastinator
+Target: 20.235.90.134
+Port: 12281
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-14 06:15:37.697574 | Command: /bgmi | Target: 20.198.102.117 | Port: 17122 | Time: 599
+Username: @pr0_crastinator
+Target: 20.198.102.117
+Port: 17122
+Time: 599
+
+UserID: 812940660 | Time: 2024-09-14 06:16:25.324645 | Command: /bgmi | Target: 20.235.90.134 | Port: 12281 | Time: 599
+Username: @pr0_crastinator
+Target: 20.235.90.134
+Port: 12281
+Time: 599
+
